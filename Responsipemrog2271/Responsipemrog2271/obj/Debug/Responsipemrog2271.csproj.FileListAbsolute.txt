@@ -1,0 +1,14 @@
+D:\18.11.2271\Responsipemrog2271\Responsipemrog2271\obj\Debug\Responsipemrog2271.csprojAssemblyReference.cache
+D:\18.11.2271\Responsipemrog2271\Responsipemrog2271\obj\Debug\Responsipemrog2271.csproj.CoreCompileInputs.cache
+D:\18.11.2271\Responsipemrog2271\Responsipemrog2271\bin\Debug\Responsipemrog2271.exe.config
+D:\18.11.2271\Responsipemrog2271\Responsipemrog2271\bin\Debug\Responsipemrog2271.exe
+D:\18.11.2271\Responsipemrog2271\Responsipemrog2271\bin\Debug\Responsipemrog2271.pdb
+D:\18.11.2271\Responsipemrog2271\Responsipemrog2271\obj\Debug\Responsipemrog2271.exe
+D:\18.11.2271\Responsipemrog2271\Responsipemrog2271\obj\Debug\Responsipemrog2271.pdb
+E:\Responsi UTS\Responsipemrog2271\Responsipemrog2271\bin\Debug\Responsipemrog2271.exe.config
+E:\Responsi UTS\Responsipemrog2271\Responsipemrog2271\bin\Debug\Responsipemrog2271.exe
+E:\Responsi UTS\Responsipemrog2271\Responsipemrog2271\bin\Debug\Responsipemrog2271.pdb
+E:\Responsi UTS\Responsipemrog2271\Responsipemrog2271\obj\Debug\Responsipemrog2271.csprojAssemblyReference.cache
+E:\Responsi UTS\Responsipemrog2271\Responsipemrog2271\obj\Debug\Responsipemrog2271.csproj.CoreCompileInputs.cache
+E:\Responsi UTS\Responsipemrog2271\Responsipemrog2271\obj\Debug\Responsipemrog2271.exe
+E:\Responsi UTS\Responsipemrog2271\Responsipemrog2271\obj\Debug\Responsipemrog2271.pdb
